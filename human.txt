@@ -1,0 +1,42 @@
+
+                            
+/* TEAM */
+
+                            
+Who: Will
+                        
+Site: gndclouds.cc
+                      
+Twitter: gndclouds
+
+
+							
+/* THANKS */
+
+Mitchell Wright: https://twitter.com/mitchellbwright
+				
+                 
+                                     
+/* SITE */
+                            
+Last update: 2019/07/30 
+
+                            
+Standards: 
+  - HTML, CSS
+                            
+Components: 
+  - 
+                         
+Software: 
+  - Zeit
+  - Glitch
+  - Typeform
+  - Zapier
+  - Stripe
+  - Airtable
+  - Feedly
+  - Twilio
+     
+   
+                        
